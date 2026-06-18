@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **webstack**
 
-- 👨‍💻 All of my projects are available at [https://samyportfolio.netlify.app](https://samyportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://samyportfoli.netlify.app](https://samyportfolio.netlify.app)
 
 - 💬 Ask me about **react,laravel, python**
 
